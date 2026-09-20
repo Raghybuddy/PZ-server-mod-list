@@ -1,46 +1,48 @@
 The following mods are:
 
-NeatUI_Framework	3508537032	NeatUI Framework [B42] ✓
+1	NeatUI Framework [B42]	NeatUI_Framework	3508537032
 
-BCGTools	2423906082	Bushcraft Gear - Tools ✓
+2	Bushcraft Gear - Tools	BCGTools	2423906082
 
-SWMG	3722064198	Gunworks Framework ✓
+3	Hot Brass - Visible Casing Ejection Framework	HBAmmoCraft	3610677934
 
-GunsOfMarz	3722134990	GoM - Guns of Marz ✓
+4	Gunworks Framework	SWMG	3722064198
 
-VanillaGearExpanded	3401134276	Vanilla Gear Expanded ✓
+5	GoM - Guns of Marz	GunsOfMarz	3722134990
 
-VanillaOutfitsExpanded	3783094058	Vanilla Outfits Expanded ✓
+6	Vanilla Gear Expanded	VanillaGearExpanded	3401134276
 
-VanillaVehiclesAnimated	3281755175	Vanilla Vehicles Animated ✓
+7	Vanilla Outfits Expanded	VanillaOutfitsExpanded	3783094058
 
-NeatUI_Equipment	3790656296	NeatUI Equipment [42.20] ✓
+8	Vanilla Vehicles Animated	VanillaVehiclesAnimated	3281755175
 
-Neat_Building	3536052310	Neat Building [B42] ✓
+9	NeatUI Equipment [42.20]	NeatUI_Equipment	3790656296
 
-Neat_Crafting	3502080466	Neat Crafting [B42] ✓
+10	Neat Building [B42]	Neat_Building	3536052310
 
-CleanUI	3437629766	CleanUI [B42] ✓
+11	Neat Crafting [B42]	Neat_Crafting	3502080466
 
-CleanHotBar	3461263912	Clean HotBar [B42] ✓
+12	CleanUI [B42]	CleanUI	3437629766
 
-SpnOpenCloth	2812326159	Spongie's Open Jackets ✓
+13	Clean HotBar [B42]	CleanHotBar	3461263912
 
-SpnCloth	2684285534	Spongie's Clothing ✓
+14	Spongie's Open Jackets	SpnOpenCloth	2812326159
 
-CyesPushDoors	3780683663	Cye's Push Doors! ✓
+15	Spongie's Clothing	SpnCloth	2684285534
 
-PZMCompanion	3793289804	GPS Cross-Device ✓
+16	Cye's Push Doors!	CyesPushDoors	3780683663
 
-RealisticDash	3635591071	Realistic Dashboard & Gauges ✓
+17	GPS Cross-Device – ProjectZomboidMap.com	PZMCompanion	3793289804
 
-DetailedDescriptionsForOccupationsAndTraits	3387957272	Detailed Descriptions ✓
+18	Realistic Dashboard & Gauges	RealisticDash	3635591071
 
-traitsAsSkills	3784847437	Traits As Skills ✓
+19	Detailed Descriptions for Occupations and Traits	DetailedDescriptionsForOccupationsAndTraits	3387957272
 
-ModernZombieHealthBar	3712058499	Modern Zombie Health Bar ✓
+20	Traits As Skills	traitsAsSkills	3784847437
 
-MPOptimizer	3787481250	Project Zomboid Optimiser ✓
+21	Modern Zombie Health Bar	ModernZombieHealthBar	3712058499
+
+22	Project Zomboid Optimiser	MPOptimizer	3787481250
 
 
 If the numbers arent right pls forgive me 
