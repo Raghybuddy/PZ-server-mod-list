@@ -8,8 +8,7 @@ put these lines into their respective parts for your server file and it will aut
 
 Mods=
 
-NeatUI_Framework;BCGTools;SWMG;Gunworks_Framework;GunsOfMarz;VanillaGearExpanded;VanillaOutfitsExpanded;VanillaVehiclesAnimated;NeatUI_Equipment;Neat_Building;Neat_Crafting;CleanUI;CleanHotBar;SpnOpenCloth;SpnCloth;CyesPushDoors;PZMCompanion;RealisticDash;DetailedDescriptionsForOccupationsAndTraits;traitsAsSkills;ModernZombieHealthBar;MP
-
+Mods=NeatUI_Framework;BCGTools;SWMG;Gunworks_Framework;GunsOfMarz;VanillaGearExpanded;VanillaOutfitsExpanded;VanillaVehiclesAnimated;NeatUI_Equipment;Neat_Building;Neat_Crafting;CleanUI;CleanHotBar;SpnOpenCloth;SpnCloth;CyesPushDoors;PZMCompanion;RealisticDash;DetailedDescriptionsForOccupationsAndTraits;traitsAsSkills;ModernZombieHealthBar;MPOptimizer
 
 
 
