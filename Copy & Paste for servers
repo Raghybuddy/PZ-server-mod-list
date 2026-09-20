@@ -8,7 +8,7 @@ put these lines into their respective parts for your server file and it will aut
 
 Mods=
 
-NeatUI_Framework;BCGTools;SWMG;GunsOfMarz;VanillaGearExpanded;VanillaOutfitsExpanded;VanillaVehiclesAnimated;NeatUI_Equipment;Neat_Building;Neat_Crafting;CleanUI;CleanHotBar;SPNCC;SpnOpenCloth;SpnCloth;CyesPushDoors;PZMCompanion;RealisticDash;DetailedDescriptionsForOccupationsAndTraits;traitsAsSkills;ModernZombieHealthBar;CustomJoke;MPOptimizer
+NeatUI_Framework;BCGTools;SWMG;Gunworks_Framework;GunsOfMarz;VanillaGearExpanded;VanillaOutfitsExpanded;VanillaVehiclesAnimated;NeatUI_Equipment;Neat_Building;Neat_Crafting;CleanUI;CleanHotBar;SpnOpenCloth;SpnCloth;CyesPushDoors;PZMCompanion;RealisticDash;DetailedDescriptionsForOccupationsAndTraits;traitsAsSkills;ModernZombieHealthBar;MP
 
 
 
@@ -16,7 +16,7 @@ NeatUI_Framework;BCGTools;SWMG;GunsOfMarz;VanillaGearExpanded;VanillaOutfitsExpa
 
 WorkshopItems=
 
-3508537032;2423906082;3722064198;3722134990;3401134276;3783094058;3281755175;3790656296;3536052310;3502080466;3437629766;3461263912;3414634809;2812326159;2684285534;3780683663;3793289804;3635591071;3387957272;3784847437;3712058499;3415451174;3787481250
+3508537032;2423906082;3722064198;3722134990;3401134276;3783094058;3281755175;3790656296;3536052310;3502080466;3437629766;3461263912;3414634809;2812326159;2684285534;3780683663;3793289804;3635591071;3387957272;3784847437;3712058499;3787481250
 
 
 
