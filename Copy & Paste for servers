@@ -8,7 +8,7 @@ Mods=
 
 NeatUI_Framework;BCGTools;HBAmmoCraft;SWMG;GunsOfMarz;VanillaGearExpanded;VanillaOutfitsExpanded;VanillaVehiclesAnimated;NeatUI_Equipment;Neat_Building;Neat_Crafting;CleanUI;CleanHotBar;SpnOpenCloth;SpnCloth;CyesPushDoors;PZMCompanion;RealisticDash;DetailedDescriptionsForOccupationsAndTraits;traitsAsSkills;ModernZombieHealthBar;MPOptimizer;errorMagnifier;ChuckleberryFinnAlertSystem;SkillRecoveryJournal
 
-PROJECTRVInterior42; = RV interior mod
+ArcadiaRVInterior_B42_MP;ArcadiaRVInterior_B42_Vanilla; = RV interior mod (arcadia)
 
 
 
@@ -17,11 +17,11 @@ WorkshopItems=
 
 3508537032;2423906082;3610677934;3722064198;3722134990;3401134276;3783094058;3281755175;3790656296;3536052310;3502080466;3437629766;3461263912;2812326159;2684285534;3780683663;3793289804;3635591071;3387957272;3784847437;3712058499;3787481250;2896041179;3077900375;2503622437
 
-3543229299; = RV interior mod
+3773972040; = RV interior mod (arcadia)
 
 
 
-map_distanciado = Map for RV interior mod
+vehicle_interior_arcadia75 = Map for RV interior mod (arcadia)
 
 
 
